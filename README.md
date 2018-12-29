@@ -71,7 +71,7 @@ View Department Sales
 
 You can check the overhead costs, sales, and profits of each department.
 
-![mee](https://github.com/meenalal/Bamazon/blob/master/images/supervisor_step2.png
+![mee](https://github.com/meenalal/Bamazon/blob/master/images/supervisor_step2.png)
 
 
 
