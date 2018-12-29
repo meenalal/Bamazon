@@ -37,25 +37,25 @@ Add a New Product
 
 To add an item, enter the department name (make a selection), item name, price, and stock quantity.
 
-![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_steps1.png)
+![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_step1.png)
 
 View Products for Sale
 
 Check items that are for sale.
 
-![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_steps2.png)
+![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_step2.png)
 
 Add to inventory
 
 Let's stock more Until Dawn!
 
-![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_steps3.png)
+![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_step3.png)
 
 View Low Inventory
 
 Finally, you can check which items have fewer than 5 in stock.
 
-![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_steps4.png)
+![mee](https://github.com/meenalal/Bamazon/blob/master/images/manager_step4.png)
 
 Demos - Supervisor
 
@@ -65,7 +65,7 @@ Add a New Department
 
 To add a department, enter the department name and overhead costs.
 
-![mee](https://github.com/meenalal/Bamazon/blob/master/images/supervisor_steps1.png)
+![mee](https://github.com/meenalal/Bamazon/blob/master/images/supervisor_step1.png)
 
 View Department Sales
 
